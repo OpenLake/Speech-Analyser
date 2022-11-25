@@ -9,3 +9,6 @@ Python, NLP, ML, Speech Recognition and analysis
 
 ## Other details 📑
 This project is in its first iteration hence have to be started from Scratch. You need not to be proficient in the Techstack mentioned but should have basic understanding of the things. 
+
+##Contribution Guidelines
+
