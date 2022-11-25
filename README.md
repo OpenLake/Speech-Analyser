@@ -10,5 +10,7 @@ Python, NLP, ML, Speech Recognition and analysis
 ## Other details 📑
 This project is in its first iteration hence have to be started from Scratch. You need not to be proficient in the Techstack mentioned but should have basic understanding of the things. 
 
-##Contribution Guidelines
-
+## Contribution Guidelines ✨
+Please go through the Wiki. 
+- [How to create a PR?](https://github.com/OpenLake/Speech-Analyser/wiki/PR-Format-Guidelines)
+- [PR Format Guidelines](https://github.com/OpenLake/Speech-Analyser/wiki/How-to-create-a-PR)
