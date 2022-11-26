@@ -5,7 +5,8 @@ People who are learning to speak English may make mistakes when they communicate
 Python, NLP, ML, Speech Recognition and analysis
 
 ## Maintainers ☀️
-[@Ananyaiitbhilai](https://github.com/Ananyaiitbhilai) 
+|[@Ananya](https://github.com/Ananyaiitbhilai)| wassim chouchen (https://github.com/wassimchouchen)|
+|-----------|---------------------|
 
 ## Other details 📑
 This project is in its first iteration hence have to be started from Scratch. You need not to be proficient in the Techstack mentioned but should have basic understanding of the things. 
