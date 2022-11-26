@@ -5,7 +5,7 @@ People who are learning to speak English may make mistakes when they communicate
 Python, NLP, ML, Speech Recognition and analysis
 
 ## Maintainers ☀️
-|[@Ananya](https://github.com/Ananyaiitbhilai)| wassim chouchen (https://github.com/wassimchouchen)|
+|[@Ananya](https://github.com/Ananyaiitbhilai)| [@Wassim Chouchen](https://github.com/wassimchouchen)|
 |-----------|---------------------|
 
 ## Other details 📑
